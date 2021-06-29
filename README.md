@@ -13,7 +13,7 @@
 - ✨ I'm currently a **Computer Science** student.
 - 🌱 I'm exploring the fields of **Machine Learning and Deep Learning**.
 - 👯 I'm looking to collaborate on **Projects**.
-- 💬 Always up for coversations related to **Tech, Music and Career**.
+- 💬 Always up for coversations related to **Tech, Music and Movies**.
 - 😄 Pronouns: *she/her*
 - 📫 Reach me: <a href="mailto:aasthapatel1811@gmail.com"> Here's my mail id! </a>
 <!--⚡ Fun fact: I like writing for personal fun! -->
