@@ -11,7 +11,8 @@
 ### A little about ME!
 
 - ✨ I'm currently a **Computer Science** student.
-- 🌱 I'm exploring the fields of **Machine Learning and Deep Learning**.
+- 🔭 At present, I am exploring **Full Stack Web Development using MERN Stack**.
+- 🌱 I'm interested in the the fields of **Machine Learning and Deep Learning**.
 - 👯 I'm looking to collaborate on **Projects**.
 - 💬 Always up for coversations related to **Tech, Music and Movies**.
 - 😄 Pronouns: *she/her*
